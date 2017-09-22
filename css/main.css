@@ -1,0 +1,23 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.flex {
+  max-width: 100px;
+  margin-top: 5em;
+}
+
+h1 {
+  padding-bottom: .05em;
+  margin-bottom: .05em;
+}
+
+h2 {
+  color: #878686;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.icon {
+  margin-top: 1em;
+}
